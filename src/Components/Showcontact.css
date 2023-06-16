@@ -1,0 +1,37 @@
+.center{
+    text-align: center;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+   td, th {
+    border: 1px solid #dddddd;
+    /* text-align: left; */
+    padding: 8px;
+  } 
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .wid{
+    width: 20px;
+  }
+  td .red{
+  background-color: red;
+  
+  }
+  td .blue{
+  background-color: blue;
+  }
+  .btn{
+
+    position:absolute;
+    right: 100px;
+    top:30px;
+    font-size: large;
+    background-color:blueviolet;
+    margin-bottom: 100px;
+}
